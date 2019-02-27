@@ -1,11 +1,15 @@
+import numpy as np
+import pandas as pd
 from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
+import time
 
-option = webdriver.ChromeOptions()
-option.add_argument(“ — incognito”)
+browser = webdriver.Firefox()
+browser.get('https://www.foxsports.com/soccer/stats?competition=1&season=20180&category=STANDARD')
+time.sleep(2)
 
-browser = webdriver.Chrome(executable_path=’/Library/Application Support/Google/chromedriver’, chrome_options=option)
-browser.get(“http://www.espn.com/soccer/?src=com")
+table = browser.find_element_by_class_name('wisbb_standardTable').get_attribute('outerHTML')
+data = pd.read_html(table)
+data_df = data[0]
+print(data_df)
+browser.close()
+data_df.to_csv('data_fram.csv')
