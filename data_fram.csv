@@ -1,51 +1,21 @@
-,STANDARD,GP,GS,MP,G,A,SOG,S,YC,RC
-0,"1  Salah, Mohamed  Salah, M. LIV",27,26,1524,17,6,45,89,0,0
-1,"1  Aguero, Sergio  Aguero, S. MCI",23,21,1031,17,6,32,86,4,0
-2,"3  Aubameyang, Pierre-Emerick  Aubameyang, P. ARS",26,23,1407,15,3,27,64,0,0
-3,"3  Kane, Harry  Kane, H. TOT",23,22,1173,15,4,44,83,4,0
-4,"5  Hazard, Eden  Hazard, E. CHE",25,22,1353,12,10,31,67,2,0
-5,"5  Mane, Sadio  Mane, S. LIV",25,24,1412,12,1,30,57,1,0
-6,"5  Sterling, Raheem  Sterling, R. MCI",24,22,1369,12,8,25,47,2,0
-7,"8  Lacazette, Alexandre  Lacazette, A. ARS",26,19,1183,11,5,25,55,2,0
-8,"8  Pogba, Paul  Pogba, P. MUN",24,23,1236,11,8,41,78,3,0
-9,"8  Heung-min, Son  Heung-min, S. TOT",21,16,1187,11,5,22,54,2,0
-10,"11  Murray, Glenn  Murray, G. BHA",26,21,1030,10,0,18,36,3,0
-11,"11  Wilson, Callum  Wilson, C. BOU",21,20,944,10,5,18,47,3,0
-12,11  Richarlison  Richarlison  EVE,25,23,1408,10,1,20,53,3,1
-13,"11  Jimenez, Raul  Jimenez, R. WLV",27,26,1469,10,5,32,85,3,0
-14,"11  Mitrovic, Aleksandar  Mitrovic, A. FUL",27,27,1571,10,2,36,93,6,0
-15,"16  King, Joshua  King, J. BOU",24,23,1259,9,3,18,46,1,0
-16,"16  Sigurdsson, Gylfi  Sigurdsson, G. EVE",27,25,1426,9,3,21,61,3,0
-17,"16  Firmino, Roberto  Firmino, R. LIV",27,25,1393,9,5,29,55,0,0
-18,"16  Martial, Anthony  Martial, A. MUN",20,15,927,9,2,17,30,2,0
-19,"16  Rashford, Marcus  Rashford, M. MUN",23,18,1307,9,5,30,57,3,1
-20,"21  Barnes, Ashley  Barnes, A. BUR",26,15,1212,8,2,23,45,5,0
-21,"21  Vardy, Jamie  Vardy, J. LEI",23,19,1232,8,3,25,44,2,1
-22,"21  Sane, Leroy  Sane, L. MCI",23,17,1061,8,9,17,42,1,0
-23,"21  Lukaku, Romelu  Lukaku, R. MUN",24,15,771,8,0,22,39,2,0
-24,"21  Milivojevic, Luka  Milivojevic, L. CRY",27,27,1620,8,1,19,43,8,0
-25,21  Felipe Anderson  Felipe Anderson  WHU,27,27,1569,8,3,19,43,3,0
-26,"27  Wood, Chris  Wood, C. BUR",27,18,1277,7,0,18,42,2,0
-27,27  Pedro  Pedro  CHE,21,15,866,7,1,21,41,1,0
-28,"27  Ings, Danny  Ings, D. SOU",18,17,647,7,1,19,43,1,0
-29,"27  Arnautovic, Marko  Arnautovic, M. WHU",19,17,740,7,3,22,44,3,0
-30,"27  Zaha, Wilfried  Zaha, W. CRY",23,23,1344,7,2,21,55,7,0
-31,"27  Deeney, Troy  Deeney, T. WAT",24,21,1278,7,3,22,50,3,0
-32,"27  Rondon, Salomon  Rondon, S. NEW",21,19,1407,7,4,17,52,1,0
-33,"34  Jesus, Gabriel  Jesus, G. MCI",21,7,546,6,2,21,35,0,0
-34,"34  Silva, David  Silva, D. MCI",23,19,1046,6,4,16,41,1,0
-35,34  Lucas Moura  Lucas Moura  TOT,22,17,674,6,0,9,26,2,0
-36,"34  Deulofeu, Gerard  Deulofeu, G. WAT",20,17,1305,6,3,11,36,2,0
-37,"34  Pereyra, Roberto  Pereyra, R. WAT",25,25,1365,6,2,18,47,3,0
-38,"34  Brooks, David  Brooks, D. BOU",22,21,1045,6,4,20,37,2,0
-39,"34  Shaqiri, Xherdan  Shaqiri, X. LIV",21,11,829,6,2,10,24,2,0
-40,"34  Schurrle, Andre  Schurrle, A. FUL",22,21,932,6,0,19,52,2,0
-41,"42  Duffy, Shane  Duffy, S. BHA",23,23,1198,5,1,13,23,4,1
-42,"42  Fraser, Ryan  Fraser, R. BOU",27,25,1443,5,9,17,30,1,0
-43,"42  Mkhitaryan, Henrikh  Mkhitaryan, H. ARS",16,11,563,5,2,9,33,0,0
-44,"42  Morata, Alvaro  Morata, A. CHE",16,11,501,5,0,16,35,3,0
-45,"42  Mahrez, Riyad  Mahrez, R. MCI",21,10,555,5,2,16,35,0,0
-46,"42  Gundogan, Ilkay  Gundogan, I. MCI",21,13,882,5,2,9,28,2,0
-47,"42  Silva, Bernardo  Silva, B. MCI",26,23,1383,5,6,14,36,3,0
-48,"42  Alli, Dele  Alli, D. TOT",17,14,837,5,0,14,26,2,0
-49,"42  Eriksen, Christian  Eriksen, C. TOT",24,19,1241,5,9,22,49,2,0
+,Rank,Player,Club,Nationality,Stat
+0,1,Alan Shearer,-,England,260
+1,2,Wayne Rooney,-,England,208
+2,3,Andrew Cole,-,England,187
+3,4,Frank Lampard,-,England,177
+4,5,Thierry Henry,-,France,175
+5,6,Robbie Fowler,-,England,163
+6,7,Jermain Defoe,-,England,162
+7,8,Sergio Agüero,Manchester City,Argentina,160
+8,9,Michael Owen,-,England,150
+9,10,Les Ferdinand,-,England,149
+10,11,Teddy Sheringham,-,England,146
+11,12,Robin van Persie,-,Netherlands,144
+12,13,Jimmy Floyd Hasselbaink,-,Netherlands,127
+13,14,Robbie Keane,-,Ireland,126
+14,15,Nicolas Anelka,-,France,125
+15,16,Harry Kane,Tottenham Hotspur,England,123
+16,16,Dwight Yorke,-,Trinidad And Tobago,123
+17,18,Steven Gerrard,-,England,120
+18,19,Ian Wright,-,England,113
+19,20,Dion Dublin,-,England,111

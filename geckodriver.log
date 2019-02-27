@@ -125,3 +125,43 @@ JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/j
 JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=ADxQqoRLjKA-BofBiMWQCsCtEzmHY27Du5EJKiL7B0w1&vt=20190220000000, line 1: TypeError: e is null
 JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=ADxQqoRLjKA-BofBiMWQCsCtEzmHY27Du5EJKiL7B0w1&vt=20190220000000, line 1: TypeError: e is null
 1551253115874	Marionette	INFO	Stopped listening on port 60187
+1551255580889	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.yRmztbAzuNtp"
+1551255586021	Marionette	INFO	Listening on port 61680
+1551255586087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551255640630	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.hnCBOmJvV9Dn"
+1551255644008	Marionette	INFO	Listening on port 62018
+1551255644071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551255714129	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.KhvuVR8ZR3Ph"
+1551255717423	Marionette	INFO	Listening on port 62392
+1551255717542	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1551255790532	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.xffcYcPHuTuB"
+1551255794215	Marionette	INFO	Listening on port 62789
+1551255794325	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551255799395	Marionette	INFO	Stopped listening on port 62789
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1551256039656	Marionette	INFO	Stopped listening on port 62392
+1551256047669	Marionette	INFO	Stopped listening on port 62018
+1551256051228	Marionette	INFO	Stopped listening on port 61680
