@@ -4,6 +4,17 @@ from selenium import webdriver
 import time
 
 
+def get_premTopGoals():
+    browser = webdriver.Firefox()
+    browser.get('https://www.foxsports.com/soccer/stats?competition=1&season=20180&category=STANDARD&pos=0&team=0&sort=3&sortOrder=0')
+    time.sleep(3)
+    table = browser.find_element_by_class_name('wisbb_standardTable').get_attribute('outerHTML')
+    data = pd.read_html(table)
+    data_df = data[0]
+    data_df.to_csv('premTopGoals.csv')
+    browser.close()
+
+
 
 
 
