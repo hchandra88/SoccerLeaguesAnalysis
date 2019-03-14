@@ -1,51 +1,21 @@
-,STANDARD,GP,GS,MP,G,A,SOG,S,YC,RC
-0,1  Cristiano Ronaldo  Cristiano Ronaldo  JUV,25,24,1339,19,7,60,152,2,0
-1,"2  Piatek, Krzysztof  Piatek, K. MIL",24,22,-,18,0,37,80,3,0
-2,"3  Quagliarella, Fabio  Quagliarella, F. SMP",24,24,1344,17,6,38,88,1,0
-3,"4  Zapata, Duvan  Zapata, D. ATA",25,20,1238,16,4,31,75,3,0
-4,"5  Milik, Arek  Milik, A. NAP",22,16,956,14,1,35,70,2,0
-5,"6  Immobile, Ciro  Immobile, C. LAZ",23,21,1156,11,3,35,84,4,0
-6,"6  Caputo, Francesco  Caputo, F. EMP",25,25,1440,11,3,29,64,1,0
-7,"8  Petagna, Andrea  Petagna, A. SPL",23,23,1159,10,0,28,59,5,0
-8,"9  Icardi, Mauro  Icardi, M. INT",20,18,1092,9,2,23,53,0,0
-9,"9  Pavoletti, Leonardo  Pavoletti, L. CAG",20,19,1031,9,1,20,48,3,0
-10,"11  Mandzukic, Mario  Mandzukic, M. JUV",20,19,1057,8,5,15,27,3,0
-11,"11  Insigne, Lorenzo  Insigne, L. NAP",21,19,1062,8,5,32,95,4,1
-12,"11  Mertens, Dries  Mertens, D. NAP",23,14,897,8,6,23,58,1,0
-13,"11  El Shaarawy, Stephan  El Shaarawy, S. ROM",17,13,716,8,2,21,44,1,0
-14,"11  Inglese, Roberto  Inglese, R. PAR",21,20,1160,8,2,17,42,2,0
-15,11  Gervinho  Gervinho  PAR,19,17,1124,8,0,14,29,0,0
-16,"17  Ilicic, Josip  Ilicic, J. ATA",19,13,1081,7,5,17,56,4,1
-17,"17  Benassi, Marco  Benassi, M. FIO",21,19,928,7,0,15,38,5,1
-18,"17  Dzeko, Edin  Dzeko, E. ROM",21,17,868,7,4,35,92,4,0
-19,"17  Kolarov, Aleksandar  Kolarov, A. ROM",23,22,1440,7,1,13,31,2,0
-20,"17  Belotti, Andrea  Belotti, A. TOR",25,25,1432,7,1,31,81,4,0
-21,"17  Ciano, Camillo  Ciano, C. FRO",22,19,970,7,2,21,54,7,0
-22,"23  Babacar, Khouma  Babacar, K. SAS",21,13,775,6,1,19,44,0,0
-23,"23  Higuain, Gonzalo  Higuain, G. MIL",15,15,740,6,1,18,52,3,1
-24,"23  Defrel, Gregoire  Defrel, G. SMP",24,17,774,6,0,10,26,2,0
-25,"23  De Paul, Rodrigo  De Paul, R. UDN",23,23,1233,6,3,23,56,6,0
-26,"23  Stepinski, Mariusz  Stepinski, M. CHV",24,18,991,6,1,11,43,2,0
-27,"23  Santander, Federico  Santander, F. BGN",24,20,1150,6,2,21,59,3,0
-28,"29  Gomez, Papu  Gomez, P. ATA",23,22,1249,5,8,22,66,4,0
-29,"29  Mancini, Gianluca  Mancini, G. ATA",18,16,1079,5,1,9,23,2,0
-30,"29  Chiesa, Federico  Chiesa, F. FIO",25,24,1395,5,2,32,105,3,0
-31,"29  Simeone, Giovanni  Simeone, G. FIO",25,20,1001,5,3,18,41,0,0
-32,"29  Veretout, Jordan  Veretout, J. FIO",22,22,1350,5,2,11,27,8,0
-33,29  Suso  Suso  MIL,23,23,1325,5,8,30,67,6,0
-34,"29  Caprari, Gianluca  Caprari, G. SMP",16,11,625,5,2,11,23,1,0
-35,"36  Cristante, Bryan  Cristante, B. ROM",23,16,1129,4,3,7,23,7,0
-36,"36  Hateboer, Hans  Hateboer, H. ATA",23,22,1415,4,4,6,16,3,0
-37,"36  Perisic, Ivan  Perisic, I. INT",22,18,1061,4,3,15,58,2,0
-38,"36  Pinamonti, Andrea  Pinamonti, A. FRO",17,8,733,4,0,9,24,2,0
-39,"36  Dybala, Paulo  Dybala, P. JUV",22,18,1079,4,3,14,47,1,0
-40,"36  Kessie, Franck  Kessie, F. MIL",23,23,1350,4,0,9,36,6,0
-41,"36  Zielinski, Piotr  Zielinski, P. NAP",25,22,1221,4,0,20,54,4,0
-42,"36  Fazio, Federico  Fazio, F. ROM",22,19,1030,4,0,11,18,4,0
-43,"36  Pellissier, Sergio  Pellissier, S. CHV",14,10,657,4,1,11,19,1,0
-44,"36  Falque, Iago  Falque, I. TOR",19,16,894,4,2,16,47,1,0
-45,"36  Kurtic, Jasmin  Kurtic, J. SPL",19,18,1116,4,2,11,47,7,0
-46,"36  Ramirez, Gaston  Ramirez, G. SMP",19,13,732,4,4,8,17,5,0
-47,"36  Farias, Diego  Farias, D. EMP",20,11,416,4,1,13,29,3,0
-48,"36  Pedro, Joao  Pedro, J. CAG",21,19,1223,4,3,11,38,2,0
-49,"36  Boateng, Kevin Prince  Boateng, K. SAS",13,11,365,4,1,12,29,1,0
+,STANDARD,GP,GF,A,SOG,S,HG,KG,YC,RC,F,OFF
+0,1  Juventus  Juventus,27,59,32,161,459,11,45,55,1,220,49
+1,2  Atalanta  Atalanta,27,56,41,148,432,13,42,47,2,195,59
+2,3  Roma  Roma,27,51,34,171,429,4,47,58,0,225,34
+3,4  Napoli  Napoli,27,48,33,167,487,3,44,53,3,178,63
+4,5  Sampdoria  Sampdoria,27,44,31,128,322,5,39,67,0,234,56
+5,6  Fiorentina  Fiorentina,27,42,20,132,414,5,35,71,2,262,39
+6,7  AC Milan  AC Milan,27,41,26,151,410,2,35,56,1,225,45
+7,8  Inter Milan  Inter Milan,27,40,29,132,424,8,32,56,1,215,48
+8,9  Lazio  Lazio,26,37,20,136,423,3,33,64,1,234,71
+9,10  Sassuolo  Sassuolo,27,36,21,124,365,5,28,64,4,254,52
+10,11  Torino  Torino,27,35,18,125,350,6,28,61,1,299,62
+11,12  Empoli  Empoli,27,34,20,110,322,2,29,48,1,193,64
+12,13  Genoa  Genoa,27,32,20,116,352,6,24,66,1,276,34
+13,14  Parma  Parma,27,29,16,87,263,6,23,57,1,224,67
+14,15  Cagliari  Cagliari,27,23,19,87,293,9,13,65,3,262,47
+15,15  SPAL  SPL,27,23,15,96,317,8,15,79,2,236,30
+16,17  Bologna  Bologna,27,22,17,105,340,6,16,66,2,252,51
+17,17  Udinese  Udinese,26,22,14,86,308,3,18,65,2,227,42
+18,19  Chievo  Chievo,27,20,11,85,286,6,14,73,0,288,52
+19,19  Frosinone  Frosinone,27,20,14,88,277,4,15,74,2,254,51

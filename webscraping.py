@@ -5,7 +5,7 @@ import time
 
 def get_premTopGoals():
     browser = webdriver.Firefox()
-    browser.get('https://www.foxsports.com/soccer/stats?competition=1&season=20180&category=STANDARD&pos=0&team=0&sort=3&sortOrder=0')
+    browser.get('https://www.foxsports.com/soccer/team-stats?competition=1&season=20180&category=STANDARD')
     time.sleep(3)
     table = browser.find_element_by_class_name('wisbb_standardTable').get_attribute('outerHTML')
     data = pd.read_html(table)
@@ -15,7 +15,7 @@ def get_premTopGoals():
     
 def get_laligaTopGoals():
     browser = webdriver.Firefox()
-    browser.get('https://www.foxsports.com/soccer/stats?competition=2&season=20180&category=STANDARD&pos=0&team=0&sort=3&sortOrder=0')
+    browser.get('https://www.foxsports.com/soccer/team-stats?competition=2&season=20180&category=STANDARD')
     time.sleep(3)
     table = browser.find_element_by_class_name('wisbb_standardTable').get_attribute('outerHTML')
     data = pd.read_html(table)
@@ -25,7 +25,7 @@ def get_laligaTopGoals():
     
 def get_bundTopGoals():
     browser = webdriver.Firefox()
-    browser.get('https://www.foxsports.com/soccer/stats?competition=4&season=20180&category=STANDARD&pos=0&team=0&sort=3&sortOrder=0')
+    browser.get('https://www.foxsports.com/soccer/team-stats?competition=4&season=20180&category=STANDARD')
     time.sleep(3)
     table = browser.find_element_by_class_name('wisbb_standardTable').get_attribute('outerHTML')
     data = pd.read_html(table)
@@ -35,7 +35,7 @@ def get_bundTopGoals():
     
 def get_ligue1TopGoals():
     browser = webdriver.Firefox()
-    browser.get('https://www.foxsports.com/soccer/stats?competition=43&season=20180&category=STANDARD&pos=0&team=0&sort=3&sortOrder=0')
+    browser.get('https://www.foxsports.com/soccer/team-stats?competition=43&season=20180&category=STANDARD')
     time.sleep(3)
     table = browser.find_element_by_class_name('wisbb_standardTable').get_attribute('outerHTML')
     data = pd.read_html(table)
@@ -45,10 +45,20 @@ def get_ligue1TopGoals():
     
 def get_serieATopGoals():
     browser = webdriver.Firefox()
-    browser.get('https://www.foxsports.com/soccer/stats?competition=3&season=20180&category=STANDARD&pos=0&team=0&sort=3&sortOrder=0')
+    browser.get('https://www.foxsports.com/soccer/team-stats?competition=3&season=20180&category=STANDARD')
     time.sleep(3)
     table = browser.find_element_by_class_name('wisbb_standardTable').get_attribute('outerHTML')
     data = pd.read_html(table)
     data_df = data[0]
     data_df.to_csv('serieATopGoals.csv')
+    browser.close()
+    
+def get_uclTopGoals():
+    browser = webdriver.Firefox()
+    browser.get('https://www.foxsports.com/soccer/team-stats?competition=7&season=20180&category=STANDARD')
+    time.sleep(3)
+    table = browser.find_element_by_class_name('wisbb_standardTable').get_attribute('outerHTML')
+    data = pd.read_html(table)
+    data_df = data[0]
+    data_df.to_csv('uclTopGoals.csv')
     browser.close()

@@ -641,3 +641,248 @@ JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/j
 JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
 JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
 1552457322983	Marionette	INFO	Stopped listening on port 54504
+1552500647385	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.6unhDswpeGln"
+1552500653383	Marionette	INFO	Listening on port 57661
+1552500653427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20180713112432, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20180713112432, line 194: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20180713112432, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20180713112432, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20180713112432, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20180713112432, line 205: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20180713112432, line 209: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20180713112432, line 205: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WGBZGNT&cid=1616482272.1552500658, line 98: unreachable code after return statement
+1552500679341	Marionette	INFO	Stopped listening on port 57661
+1552500735979	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.1LDPxBtdYnBh"
+1552500739981	Marionette	INFO	Listening on port 58113
+1552500740091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20180713112432, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20180713112432, line 194: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20180713112432, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20180713112432, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20180713112432, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20180713112432, line 205: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20180713112432, line 209: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20180713112432, line 205: unreachable code after return statement
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-WGBZGNT&cid=1687154119.1552500742, line 98: unreachable code after return statement
+1552501377263	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.bjRoA5I4tVfB"
+1552501381388	Marionette	INFO	Listening on port 58653
+1552501381480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcomponents-lite.v0_7_22.min.js, line 12: Error: DuplicateDefinitionError: a type with name 'wis-scorestrip' is already registered
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+1552501398703	Marionette	INFO	Stopped listening on port 58653
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1552601713695	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.Ny62CWZvmMfs"
+1552601718313	Marionette	INFO	Listening on port 62233
+1552601718428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcomponents-lite.v0_7_22.min.js, line 12: Error: DuplicateDefinitionError: a type with name 'wis-scorestrip' is already registered
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+1552601735990	Marionette	INFO	Stopped listening on port 62233
+1552603096368	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.9HuwbpD5GMdv"
+1552603101843	Marionette	INFO	Listening on port 62803
+1552603101967	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcomponents-lite.v0_7_22.min.js, line 12: Error: DuplicateDefinitionError: a type with name 'wis-scorestrip' is already registered
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+1552603126959	Marionette	INFO	Stopped listening on port 62803
+1552603460614	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.IoDrXnjrYIgs"
+1552603464675	Marionette	INFO	Listening on port 63021
+1552603464755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcomponents-lite.v0_7_22.min.js, line 12: Error: DuplicateDefinitionError: a type with name 'wis-scorestrip' is already registered
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+1552603484208	Marionette	INFO	Stopped listening on port 63021
+1552603708851	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.fUDKtPYqikQ0"
+1552603712637	Marionette	INFO	Listening on port 63235
+1552603712663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcomponents-lite.v0_7_22.min.js, line 12: Error: DuplicateDefinitionError: a type with name 'wis-scorestrip' is already registered
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+1552603730949	Marionette	INFO	Stopped listening on port 63235
+1552603806081	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.d3wwFW428yr8"
+1552603809840	Marionette	INFO	Listening on port 63456
+1552603809890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcomponents-lite.v0_7_22.min.js, line 12: Error: DuplicateDefinitionError: a type with name 'wis-scorestrip' is already registered
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+1552603827241	Marionette	INFO	Stopped listening on port 63456
+1552604050141	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.G2mXYsioZ4m7"
+1552604054430	Marionette	INFO	Listening on port 63761
+1552604054564	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552604064080	Marionette	INFO	Stopped listening on port 63761
+JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcomponents-lite.v0_7_22.min.js, line 12: Error: DuplicateDefinitionError: a type with name 'wis-scorestrip' is already registered
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

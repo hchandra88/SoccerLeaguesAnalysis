@@ -1,51 +1,21 @@
-,STANDARD,GP,GS,MP,G,A,SOG,S,YC,RC
-0,"1  Aguero, Sergio  Aguero, S. MCI",24,22,1116,18,6,33,90,4,0
-1,"2  Salah, Mohamed  Salah, M. LIV",28,27,1614,17,6,47,94,0,0
-2,"3  Aubameyang, Pierre-Emerick  Aubameyang, P. ARS",27,24,1478,16,3,28,68,0,0
-3,"4  Kane, Harry  Kane, H. TOT",24,23,1263,15,4,44,86,5,0
-4,"5  Mane, Sadio  Mane, S. LIV",26,25,1490,14,1,32,61,1,0
-5,"6  Lacazette, Alexandre  Lacazette, A. ARS",27,19,1209,12,5,27,58,2,0
-6,"6  Hazard, Eden  Hazard, E. CHE",26,23,1413,12,10,31,67,2,0
-7,"6  Sterling, Raheem  Sterling, R. MCI",25,22,1404,12,8,27,50,2,0
-8,"9  Sigurdsson, Gylfi  Sigurdsson, G. EVE",28,26,1514,11,3,23,63,3,0
-9,"9  Pogba, Paul  Pogba, P. MUN",25,24,1326,11,9,42,81,3,0
-10,"9  Heung-min, Son  Heung-min, S. TOT",22,17,1267,11,5,22,55,2,0
-11,"12  Murray, Glenn  Murray, G. BHA",27,22,1120,10,0,18,38,3,0
-12,"12  Wilson, Callum  Wilson, C. BOU",21,20,944,10,5,18,47,3,0
-13,"12  Lukaku, Romelu  Lukaku, R. MUN",25,16,861,10,0,24,43,3,0
-14,12  Richarlison  Richarlison  EVE,26,24,1469,10,1,20,54,3,1
-15,"12  Jimenez, Raul  Jimenez, R. WLV",28,27,1548,10,5,32,87,3,0
-16,"12  Mitrovic, Aleksandar  Mitrovic, A. FUL",28,28,1661,10,2,37,96,6,0
-17,"18  King, Joshua  King, J. BOU",25,24,1349,9,3,19,49,2,0
-18,"18  Vardy, Jamie  Vardy, J. LEI",24,20,1322,9,3,26,48,3,1
-19,"18  Firmino, Roberto  Firmino, R. LIV",27,25,1393,9,5,29,55,0,0
-20,"18  Martial, Anthony  Martial, A. MUN",20,15,927,9,2,17,30,2,0
-21,"18  Rashford, Marcus  Rashford, M. MUN",24,18,1320,9,5,30,57,3,1
-22,"23  Barnes, Ashley  Barnes, A. BUR",27,16,1283,8,2,23,45,5,0
-23,23  Pedro  Pedro  CHE,22,16,956,8,1,22,43,1,0
-24,"23  Sane, Leroy  Sane, L. MCI",24,18,1118,8,9,17,42,1,0
-25,"23  Milivojevic, Luka  Milivojevic, L. CRY",28,28,1710,8,1,19,44,8,0
-26,23  Felipe Anderson  Felipe Anderson  WHU,28,28,1645,8,3,19,43,3,0
-27,"28  Wood, Chris  Wood, C. BUR",28,19,1360,7,0,19,43,2,0
-28,"28  Ings, Danny  Ings, D. SOU",18,17,647,7,1,19,43,1,0
-29,"28  Arnautovic, Marko  Arnautovic, M. WHU",19,17,740,7,3,22,44,3,0
-30,"28  Zaha, Wilfried  Zaha, W. CRY",24,24,1434,7,2,21,57,8,0
-31,"28  Deeney, Troy  Deeney, T. WAT",25,22,1351,7,3,22,52,3,0
-32,"28  Rondon, Salomon  Rondon, S. NEW",22,20,1497,7,4,17,54,1,0
-33,"34  Mkhitaryan, Henrikh  Mkhitaryan, H. ARS",17,12,627,6,4,11,35,0,0
-34,"34  Jesus, Gabriel  Jesus, G. MCI",21,7,546,6,2,21,35,0,0
-35,"34  Silva, David  Silva, D. MCI",24,20,1136,6,4,17,44,1,0
-36,34  Lucas Moura  Lucas Moura  TOT,23,17,684,6,0,9,26,2,0
-37,"34  Deulofeu, Gerard  Deulofeu, G. WAT",21,18,1378,6,3,11,36,2,0
-38,"34  Pereyra, Roberto  Pereyra, R. WAT",26,26,1449,6,2,18,47,3,0
-39,"34  Brooks, David  Brooks, D. BOU",22,21,1045,6,4,20,37,2,0
-40,"34  Shaqiri, Xherdan  Shaqiri, X. LIV",21,11,829,6,2,10,24,2,0
-41,"34  Schurrle, Andre  Schurrle, A. FUL",22,21,932,6,0,19,52,2,0
-42,"43  Duffy, Shane  Duffy, S. BHA",24,24,1288,5,1,13,26,4,1
-43,"43  Fraser, Ryan  Fraser, R. BOU",28,26,1523,5,9,19,32,1,0
-44,"43  Morata, Alvaro  Morata, A. CHE",16,11,501,5,0,16,35,3,0
-45,"43  Calvert-Lewin, Dominic  Calvert-Lewin, D. EVE",26,10,663,5,1,10,23,3,0
-46,"43  Mahrez, Riyad  Mahrez, R. MCI",22,11,610,5,2,17,38,0,0
-47,"43  Gundogan, Ilkay  Gundogan, I. MCI",22,14,972,5,2,9,29,2,0
-48,"43  Silva, Bernardo  Silva, B. MCI",27,23,1416,5,6,14,37,3,0
-49,"43  Alli, Dele  Alli, D. TOT",17,14,837,5,0,14,26,2,0
+,STANDARD,GP,GF,A,SOG,S,HG,KG,YC,RC,F,OFF
+0,1  Manchester City  Man. City,30,79,56,206,530,10,65,37,1,183,85
+1,2  Liverpool  Liverpool,30,68,37,187,450,11,55,32,0,182,59
+2,3  Arsenal  Arsenal,30,63,46,143,373,4,55,51,1,218,71
+3,4  Manchester United  Manchester Utd,30,58,35,189,417,3,55,60,2,227,68
+4,5  Tottenham Hotspur  Tottenham,30,57,38,159,401,14,42,45,0,198,56
+5,6  Chelsea  Chelsea,29,50,40,153,456,4,44,36,0,174,65
+6,7  Watford  Watford,30,42,30,117,317,8,33,59,1,236,65
+7,8  Everton  Everton,30,41,26,120,355,9,32,49,3,229,58
+8,8  Bournemouth  Bournemouth,30,41,30,127,340,10,31,46,1,166,52
+9,10  Leicester City  Leicester City,30,38,26,140,398,5,30,52,1,194,58
+10,10  Wolverhampton  Wolves,30,38,29,131,374,7,31,60,1,224,57
+11,12  West Ham United  West Ham,30,37,26,117,329,5,31,51,1,170,57
+12,13  Crystal Palace  Crystal Palace,30,36,22,117,382,3,31,51,1,203,51
+13,14  Southampton  Southampton,30,34,17,129,377,4,29,61,1,222,48
+14,14  Burnley  Burnley,30,34,25,97,291,8,25,59,1,196,82
+15,16  Brighton & Hove Albion  Brighton,29,32,21,99,292,8,24,51,2,240,71
+16,17  Newcastle United  Newcastle,30,29,24,111,343,9,19,47,2,232,45
+17,18  Fulham  Fulham,30,28,20,120,358,7,20,55,0,238,79
+18,19  Cardiff City  Cardiff City,30,27,14,92,328,3,24,52,1,207,65
+19,20  Huddersfield Town  Huddersfield,30,15,9,95,320,4,9,45,3,225,48
