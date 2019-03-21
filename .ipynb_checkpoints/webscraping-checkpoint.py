@@ -2,6 +2,52 @@ import pandas as pd
 from selenium import webdriver
 import time
 
+def EPLPassing():
+    browser = webdriver.Firefox()
+    
+    browser.get('https://www.premierleague.com/stats/top/clubs/total_pass')
+    time.sleep(3)
+    table = browser.find_element_by_class_name('table.statsTable').get_attribute('outerHTML')
+    data = pd.read_html(table)
+    data_df = data[0]
+    data_df.to_csv('totalpass.csv')
+    
+    browser.get('https://www.premierleague.com/stats/top/clubs/total_through_ball')
+    time.sleep(3)
+    table = browser.find_element_by_class_name('table.statsTable').get_attribute('outerHTML')
+    data = pd.read_html(table)
+    data_df = data[0]
+    data_df.to_csv('totalthrough.csv')
+    
+    browser.get('https://www.premierleague.com/stats/top/clubs/total_long_balls')
+    time.sleep(3)
+    table = browser.find_element_by_class_name('table.statsTable').get_attribute('outerHTML')
+    data = pd.read_html(table)
+    data_df = data[0]
+    data_df.to_csv('totallong.csv')
+    
+    browser.get('https://www.premierleague.com/stats/top/clubs/backward_pass')
+    time.sleep(3)
+    table = browser.find_element_by_class_name('table.statsTable').get_attribute('outerHTML')
+    data = pd.read_html(table)
+    data_df = data[0]
+    data_df.to_csv('backward_pass.csv')
+    
+    browser.get('https://www.premierleague.com/stats/top/clubs/total_cross')
+    time.sleep(3)
+    table = browser.find_element_by_class_name('table.statsTable').get_attribute('outerHTML')
+    data = pd.read_html(table)
+    data_df = data[0]
+    data_df.to_csv('crosses.csv')
+    
+    browser.get('https://www.premierleague.com/stats/top/clubs/corner_taken')
+    time.sleep(3)
+    table = browser.find_element_by_class_name('table.statsTable').get_attribute('outerHTML')
+    data = pd.read_html(table)
+    data_df = data[0]
+    data_df.to_csv('corners.csv')
+    
+    browser.close()
 
 def get_premTopGoals():
     browser = webdriver.Firefox()

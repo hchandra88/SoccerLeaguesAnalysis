@@ -886,3 +886,95 @@ JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcompone
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1552611690305	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.ZGmu2GBMAbBZ"
+1552611694932	Marionette	INFO	Listening on port 49829
+1552611695025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcomponents-lite.v0_7_22.min.js, line 12: Error: DuplicateDefinitionError: a type with name 'wis-scorestrip' is already registered
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+1552611712922	Marionette	INFO	Stopped listening on port 49829
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1553130096152	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.r9S8z1hQDnwG"
+1553130101673	Marionette	INFO	Listening on port 64243
+1553130101789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.fssta.com/sta/8e6993d//webcomponents-lite.min.js, line 12: Error: DuplicateDefinitionError: a type with name 'wis-scorestrip' is already registered
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=iQKSGr2hAE8rWIi4OtdXErKpCkfuFCG4GfBbfejsXkw1&vt=20190306000000, line 1: TypeError: e is null
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1553130120474	Marionette	INFO	Stopped listening on port 64243
+1553130135838	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.oTqncYun8Khm"
+1553130140205	Marionette	INFO	Listening on port 64619
+1553130140292	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553130164262	Marionette	INFO	Stopped listening on port 64619
+1553130220107	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.Xs6tDN4CrwbN"
+1553130224044	Marionette	INFO	Listening on port 65046
+1553130224095	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553130309515	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.j7Mdi8adflSv"
+1553130313695	Marionette	INFO	Listening on port 65495
+1553130313768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553130327843	Marionette	INFO	Stopped listening on port 65046
+1553130330870	Marionette	INFO	Stopped listening on port 65495
+1553130421001	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.0aQSHEy33LV3"
+1553130424804	Marionette	INFO	Listening on port 49643
+1553130424897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553130438989	Marionette	INFO	Stopped listening on port 49643
+1553130555614	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.qxVYTvNvGokn"
+1553130559670	Marionette	INFO	Listening on port 50280
+1553130559838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553130566708	Marionette	INFO	Stopped listening on port 50280
+1553130792745	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.giFLhCJDoLgC"
+1553130796407	Marionette	INFO	Listening on port 51325
+1553130796465	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553130802929	Marionette	INFO	Stopped listening on port 51325
+1553131196286	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.nfdr9SC2zklx"
+1553131200121	Marionette	INFO	Listening on port 52370
+1553131200182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553131209418	Marionette	INFO	Stopped listening on port 52370
+1553131245349	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.jo9YrwyKsnYH"
+1553131248589	Marionette	INFO	Listening on port 52465
+1553131248659	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553131257313	Marionette	INFO	Stopped listening on port 52465
+1553131278556	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.N7UK5fp6vORt"
+1553131281715	Marionette	INFO	Listening on port 52551
+1553131281778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553131288465	Marionette	INFO	Stopped listening on port 52551
+1553131342082	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.cOli186LXMGs"
+1553131345362	Marionette	INFO	Listening on port 52687
+1553131345424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553131353959	Marionette	INFO	Stopped listening on port 52687
+1553131569131	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.5B6k0Eu20YPR"
+1553131573279	Marionette	INFO	Listening on port 52826
+1553131573345	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1553131601512	Marionette	INFO	Stopped listening on port 52826
