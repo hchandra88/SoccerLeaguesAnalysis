@@ -108,3 +108,6 @@ def get_uclTopGoals():
     data_df = data[0]
     data_df.to_csv('uclTopGoals.csv')
     browser.close()
+    
+#data collection
+get_premTopGoals()
