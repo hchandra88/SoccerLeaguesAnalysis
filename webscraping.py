@@ -110,8 +110,8 @@ def get_uclTopGoals():
     browser.close()
     
 #data collection
-get_bundTopGoals()
 get_premTopGoals()
+get_bundTopGoals()
 get_laligaTopGoals()
 get_ligue1TopGoals()
 get_serieATopGoals()
