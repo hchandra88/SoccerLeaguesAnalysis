@@ -111,3 +111,8 @@ def get_uclTopGoals():
     
 #data collection
 get_premTopGoals()
+get_bundTopGoals()
+get_laligaTopGoals()
+get_ligue1TopGoals()
+get_serieATopGoals()
+get_uclTopGoals()
