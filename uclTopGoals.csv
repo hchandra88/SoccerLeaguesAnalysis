@@ -1,33 +1,33 @@
-,STANDARD,GP,GF,YC,RC
-0,1  Ajax  Ajax,18,35,35,1
-1,2  Manchester City  Man. City,10,30,15,0
-2,3  Barcelona  Barcelona,12,26,20,0
-3,4  Liverpool  Liverpool,13,24,21,0
-4,5  Tottenham Hotspur  Tottenham,13,20,23,1
-5,5  Paris SG  Paris SG,8,20,18,0
-6,5  FC Porto  FC Porto,10,20,20,0
-7,8  Red Star Belgrade  Red Star Belgr.,14,17,31,0
-8,9  Bayern Munich  Bayern Munich,8,16,12,1
-9,10  Real Madrid  Real Madrid,8,15,13,0
-10,11  Juventus  Juventus,10,14,16,1
-11,11  Roma  Roma,8,14,12,0
-12,13  Benfica  Benfica,10,13,23,0
-13,13  Lyon  Lyon,8,13,13,0
-14,15  PSV Eindhoven  PSV Eindhoven,8,12,18,0
-15,16  Atlético Madrid  Atlético Madrid,8,11,23,0
-16,16  1899 Hoffenheim  Hoffenheim,6,11,13,0
-17,18  Manchester United  Manchester Utd,10,10,20,0
-18,18  Borussia Dortmund  Dortmund,8,10,11,0
-19,20  FC Schalke 04  FC Schalke 04,8,8,16,0
-20,20  Shakhtar Donetsk  Shakhtar,6,8,10,0
-21,20  CSKA Moscow  CSKA Moscow,6,8,14,0
-22,20  AEK Athens  AEK,10,8,23,3
-23,24  Napoli  Napoli,6,7,12,0
-24,24  Viktoria Plzen  Viktoria Plzen,6,7,10,0
-25,24  Young Boys  Young Boys,8,7,18,1
-26,27  València  Valencia,6,6,20,0
-27,27  Inter Milan  Inter Milan,6,6,15,0
-28,27  Club Brugge  Club Brugge,6,6,8,0
-29,30  Galatasaray  Galatasaray,6,5,14,0
-30,31  Lokomotiv Moscow  Lokomotiv,6,4,16,1
-31,32  Monaco  Monaco,6,2,13,0
+,Team,Total goals,Average scored,Total goals against,Average conceded,Goal difference
+0,Man. City,30,3.0,12,1.2,18
+1,Barcelona,26,2.17,10,0.83,16
+2,Liverpool,24,1.85,12,0.92,12
+3,Ajax,22,1.83,13,1.08,9
+4,Paris,20,2.5,12,1.5,8
+5,Porto,20,2.0,14,1.4,6
+6,Tottenham,20,1.54,19,1.46,1
+7,Bayern,16,2.0,8,1.0,8
+8,Real Madrid,15,1.88,10,1.25,5
+9,Roma,14,1.75,12,1.5,2
+10,Juventus,14,1.4,9,0.9,5
+11,Lyon,13,1.63,16,2.0,-3
+12,Hoffenheim,11,1.83,14,2.33,-3
+13,Atlético,11,1.38,9,1.13,2
+14,Dortmund,10,1.25,6,0.75,4
+15,Man. United,10,1.0,11,1.1,-1
+16,Shakhtar Donetsk,8,1.33,16,2.67,-8
+17,CSKA Moskva,8,1.33,9,1.5,-1
+18,Schalke,8,1.0,14,1.75,-6
+19,Plzeň,7,1.17,16,2.67,-9
+20,Napoli,7,1.17,4,0.67,3
+21,Internazionale,6,1.0,7,1.17,-1
+22,PSV,6,1.0,13,2.17,-7
+23,Club Brugge,6,1.0,5,0.83,1
+24,Benfica,6,1.0,11,1.83,-5
+25,Valencia,6,1.0,6,1.0,0
+26,Galatasaray,5,0.83,8,1.33,-3
+27,Crvena zvezda,5,0.83,17,2.83,-12
+28,Young Boys,4,0.67,12,2.0,-8
+29,Lokomotiv Moskva,4,0.67,12,2.0,-8
+30,AEK,2,0.33,13,2.17,-11
+31,Monaco,2,0.33,14,2.33,-12

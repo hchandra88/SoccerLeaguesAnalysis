@@ -101,12 +101,22 @@ def get_serieATopGoals():
     
 def get_uclTopGoals():
     browser = webdriver.Firefox()
-    browser.get('https://www.foxsports.com/soccer/team-stats?competition=7&season=20180&category=STANDARD')
+    browser.get('https://www.uefa.com/uefachampionsleague/season=2019/statistics/round=2000980/clubs/kind=goals/index.html')
     time.sleep(3)
-    table = browser.find_element_by_class_name('wisbb_standardTable').get_attribute('outerHTML')
+    table = browser.find_element_by_idp('dbClubStats').get_attribute('outerHTML')
     data = pd.read_html(table)
     data_df = data[0]
     data_df.to_csv('uclTopGoals.csv')
+    browser.close()
+    
+def get_uclAttempts():
+    browser = webdriver.Firefox()
+    browser.get('https://www.uefa.com/uefachampionsleague/season=2019/statistics/round=2000980/clubs/kind=attempts/index.html')
+    time.sleep(3)
+    table = browser.find_element_by_id('dbClubStats').get_attribute('outerHTML')
+    data = pd.read_html(table)
+    data_df = data[0]
+    data_df.to_csv('uclAttempts.csv')
     browser.close()
     
 #data collection
@@ -116,3 +126,4 @@ get_laligaTopGoals()
 get_ligue1TopGoals()
 get_serieATopGoals()
 get_uclTopGoals()
+get_uclAttempts()
