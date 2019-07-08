@@ -1019,3 +1019,380 @@ JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcompone
 1559685408355	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcomponents-lite.v0_7_22.min.js, line 12: Error: DuplicateDefinitionError: a type with name 'wis-scorestrip' is already registered
 1559685436563	Marionette	INFO	Stopped listening on port 49358
+1560290457210	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.VgFPpcLzAdkS"
+1560290459244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560290459244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560290459245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560290463425	Marionette	INFO	Listening on port 63731
+1560290463526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcomponents-lite.v0_7_22.min.js, line 12: Error: DuplicateDefinitionError: a type with name 'wis-scorestrip' is already registered
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+1560290478353	Marionette	INFO	Stopped listening on port 63731
+1560290480204	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.trBS45DsqMxY"
+1560290481275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560290481276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560290481276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560290483759	Marionette	INFO	Listening on port 64042
+1560290483826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcomponents-lite.v0_7_22.min.js, line 12: Error: DuplicateDefinitionError: a type with name 'wis-scorestrip' is already registered
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+1560290501249	Marionette	INFO	Stopped listening on port 64042
+1560290503082	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.eknjg2VVGUB9"
+1560290504176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560290504177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560290504177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560290506700	Marionette	INFO	Listening on port 64343
+1560290506731	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcomponents-lite.v0_7_22.min.js, line 12: Error: DuplicateDefinitionError: a type with name 'wis-scorestrip' is already registered
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+1560290524437	Marionette	INFO	Stopped listening on port 64343
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1560290526730	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.brno2696mof5"
+1560290528077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560290528078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560290528078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560290530564	Marionette	INFO	Listening on port 64642
+1560290530609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcomponents-lite.v0_7_22.min.js, line 12: Error: DuplicateDefinitionError: a type with name 'wis-scorestrip' is already registered
+1560290541893	Marionette	INFO	Stopped listening on port 64642
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1560290543786	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.i9bFRmy1NNDJ"
+1560290544818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560290544818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560290544819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560290547285	Marionette	INFO	Listening on port 64876
+1560290547322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560290557630	Marionette	INFO	Stopped listening on port 64876
+JavaScript error: https://tags.tiqcdn.com/utag/foxsports/main-wp/prod/utag.js, line 119: TypeError: sessionStorage is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1560290559742	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.3EALnOngxqUj"
+1560290560569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560290560569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560290560569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560290563022	Marionette	INFO	Listening on port 65117
+1560290563055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcomponents-lite.v0_7_22.min.js, line 12: Error: DuplicateDefinitionError: a type with name 'wis-scorestrip' is already registered
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560280104202%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1560290582710	Marionette	INFO	Stopped listening on port 65117
+1560447712340	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.sn78CXtqnJll"
+1560447714545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560447714546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560447714546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560447717972	Marionette	INFO	Listening on port 55822
+1560447718002	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 5: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 194: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 205: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 209: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 205: unreachable code after return statement
+JavaScript error: https://www.uefa.com/inc/js/core/base/components.js?20190606133504, line 320: TypeError: O is undefined
+1560447756855	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.MYNTdeGGnZZB"
+1560447758356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560447758357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560447758357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560447761043	Marionette	INFO	Listening on port 56130
+1560447761131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 5: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 194: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 205: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 209: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 205: unreachable code after return statement
+JavaScript error: https://www.uefa.com/inc/js/core/base/components.js?20190606133504, line 320: TypeError: O is undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1560447986995	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.dqDi9LhA0hD7"
+1560447988233	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560447988234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560447988234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560447991667	Marionette	INFO	Listening on port 57666
+1560447991701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 5: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 194: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 205: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 209: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 205: unreachable code after return statement
+JavaScript error: https://www.uefa.com/inc/js/core/base/components.js?20190606133504, line 320: TypeError: O is undefined
+1560448041329	Marionette	INFO	Stopped listening on port 57666
+[Parent 81992, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1560448048059	Marionette	INFO	Stopped listening on port 55822
+1560448048556	Marionette	INFO	Stopped listening on port 56130
+1560448058786	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.mC7VpsnIQssc"
+1560448059967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560448059968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560448059968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560448062456	Marionette	INFO	Listening on port 58095
+1560448062529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 5: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 194: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 205: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 209: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 205: unreachable code after return statement
+JavaScript error: https://www.uefa.com/inc/js/core/base/components.js?20190606133504, line 320: TypeError: O is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560429929334%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+1560448123843	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.AaDpZIlUHQEu"
+1560448125264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560448125265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560448125265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560448128770	Marionette	INFO	Listening on port 58502
+1560448128876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 5: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 194: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 205: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 209: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 205: unreachable code after return statement
+JavaScript error: https://www.uefa.com/inc/js/core/base/components.js?20190606133504, line 320: TypeError: O is undefined
+1560448149327	Marionette	INFO	Stopped listening on port 58502
+1560448541428	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.9UhkCwIIDayb"
+1560448542851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560448542852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560448542852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560448545497	Marionette	INFO	Listening on port 60339
+1560448545570	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 5: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 194: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 204: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 205: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 209: unreachable code after return statement
+JavaScript warning: https://www.uefa.com/inc/js/core/base/statistics/base.js?20190606133411, line 205: unreachable code after return statement
+JavaScript error: https://www.uefa.com/inc/js/core/base/components.js?20190606133504, line 320: TypeError: O is undefined
+1560448565189	Marionette	INFO	Stopped listening on port 60339
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1560449259080	Marionette	INFO	Stopped listening on port 58095
+1562376217592	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.2CiYKtfbSKhv"
+1562376219498	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562376219499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562376219499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562376223392	Marionette	INFO	Listening on port 61971
+1562376223472	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562371206344%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: chrome://browser/content/sanitizeDialog.js, line 58: TypeError: right-hand side of 'in' should be an object, got null
+1562471387973	Marionette	INFO	Stopped listening on port 61971

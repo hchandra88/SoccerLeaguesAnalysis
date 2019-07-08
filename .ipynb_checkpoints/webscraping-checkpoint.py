@@ -2,53 +2,6 @@ import pandas as pd
 from selenium import webdriver
 import time
 
-def EPLPassing():
-    browser = webdriver.Firefox()
-    
-    browser.get('https://www.premierleague.com/stats/top/clubs/total_pass')
-    time.sleep(3)
-    table = browser.find_element_by_class_name('table.statsTable').get_attribute('outerHTML')
-    data = pd.read_html(table)
-    data_df = data[0]
-    data_df.to_csv('totalpass.csv')
-    
-    browser.get('https://www.premierleague.com/stats/top/clubs/total_through_ball')
-    time.sleep(3)
-    table = browser.find_element_by_class_name('table.statsTable').get_attribute('outerHTML')
-    data = pd.read_html(table)
-    data_df = data[0]
-    data_df.to_csv('totalthrough.csv')
-    
-    browser.get('https://www.premierleague.com/stats/top/clubs/total_long_balls')
-    time.sleep(3)
-    table = browser.find_element_by_class_name('table.statsTable').get_attribute('outerHTML')
-    data = pd.read_html(table)
-    data_df = data[0]
-    data_df.to_csv('totallong.csv')
-    
-    browser.get('https://www.premierleague.com/stats/top/clubs/backward_pass')
-    time.sleep(3)
-    table = browser.find_element_by_class_name('table.statsTable').get_attribute('outerHTML')
-    data = pd.read_html(table)
-    data_df = data[0]
-    data_df.to_csv('backward_pass.csv')
-    
-    browser.get('https://www.premierleague.com/stats/top/clubs/total_cross')
-    time.sleep(3)
-    table = browser.find_element_by_class_name('table.statsTable').get_attribute('outerHTML')
-    data = pd.read_html(table)
-    data_df = data[0]
-    data_df.to_csv('crosses.csv')
-    
-    browser.get('https://www.premierleague.com/stats/top/clubs/corner_taken')
-    time.sleep(3)
-    table = browser.find_element_by_class_name('table.statsTable').get_attribute('outerHTML')
-    data = pd.read_html(table)
-    data_df = data[0]
-    data_df.to_csv('corners.csv')
-    
-    browser.close()
-
 def get_premTopGoals():
     browser = webdriver.Firefox()
     browser.get('https://www.foxsports.com/soccer/team-stats?competition=1&season=20180&category=STANDARD')
@@ -101,13 +54,29 @@ def get_serieATopGoals():
     
 def get_uclTopGoals():
     browser = webdriver.Firefox()
-    browser.get('https://www.foxsports.com/soccer/team-stats?competition=7&season=20180&category=STANDARD')
+    browser.get('https://www.uefa.com/uefachampionsleague/season=2019/statistics/round=2000980/clubs/kind=goals/index.html')
     time.sleep(3)
-    table = browser.find_element_by_class_name('wisbb_standardTable').get_attribute('outerHTML')
+    table = browser.find_element_by_idp('dbClubStats').get_attribute('outerHTML')
     data = pd.read_html(table)
     data_df = data[0]
     data_df.to_csv('uclTopGoals.csv')
     browser.close()
     
+def get_uclAttempts():
+    browser = webdriver.Firefox()
+    browser.get('https://www.uefa.com/uefachampionsleague/season=2019/statistics/round=2000980/clubs/kind=attempts/index.html')
+    time.sleep(3)
+    table = browser.find_element_by_id('dbClubStats').get_attribute('outerHTML')
+    data = pd.read_html(table)
+    data_df = data[0]
+    data_df.to_csv('uclAttempts.csv')
+    browser.close()
+    
 #data collection
 get_premTopGoals()
+get_bundTopGoals()
+get_laligaTopGoals()
+get_ligue1TopGoals()
+get_serieATopGoals()
+get_uclTopGoals()
+get_uclAttempts()

@@ -20,17 +20,27 @@ To show this, let's try to devise a strategy from a coach's standpoint...
 In an ideal world, strategies 1, 2, and 3 prevent our opponent from scoring. However at best, we still end up with our dreaded 0-0 so we should pick strategy 4 -- go for goals.
 
 ### Project Summary
-In this project I will take a look at teams from the top 5 leagues in Europe (England, Spain, Germany, Italy, and France) and how they "go for the goals". This comparison will give us an idea of how these teams perform domestically and what makes them so good. Next, we will look at how these same teams perform in the UEFA Champions League (UCL). For those unfamiliar with soccer, the UCL is an annual tournament in which the top teams from several leagues across Europe vie for the title of "Best Team in Europe". In the past decade the tournament has been primarily dominated by Spanish and German teams which has prompted soccer fans to ask what prevents teams from other leagues from winning on the European stage despite boasting great numbers domestically. The English Premier League (EPL) is considered by many soccer fans to be the most competitive and best league around the world so it is surprising to see English teams fail on a regular basis in comparison to their Spanish and German counterparts. This year, however, three of the four teams in the semi-final were English, which led to an all-English Final. As such, the last part of this project will be an analysis of the play-style of Premier League teams to identify what has changed in the last year to cause such a drastic change in English fortunes in the UEFA Champions League.
+<br>
+<br>
+##### Part 1
+
+In this part I will take a look at the best teams from each of the top 5 leagues in Europe (England, Spain, Germany, Italy, and France) and how they "go for the goals". This comparison will give us an idea of how these teams perform domestically and what makes them so good. At a basic level, we will see how many chances these teams generate, and how good they are at converting them into goals.
+
+##### Part 2
+
+This section will take a look at historic data from the UEFA Champions League. For those unfamiliar with soccer, the UCL is an annual tournament in which the top teams from several leagues across Europe vie for the title of "Best Team in Europe".  For the better part of the past decade the tournament has been primarily dominated by Spanish and German teams which has prompted soccer fans to ask what prevents teams from other leagues from winning on the European stage despite boasting great numbers domestically. The English Premier League (EPL) is considered by many soccer fans to be the most competitive and best league around the world so it is surprising to see English teams fail on a regular basis in comparison to their Spanish and German counterparts. This year, however, three of the four teams in the semi-final were English, leading to an all-English Final. As such, the last part of this project will be an analysis of the play-style of Premier League teams to identify what has changed in the last year to cause such a drastic change in English fortunes in the UEFA Champions League.
 
 ### File Structure
 
-The following files contain goalscoring analytics for each of the top 5 leagues in Europe...
+##### Part 1
+Within the Part1 folder, the data used in the analysis is stored in the TopGoals folder. In addition, the following files contain goalscoring analytics for each of the top 5 leagues in Europe...
 1. EPL.ipynb (England)
 2. LaLiga.ipynb (Spain)
 3. Bundesliga.ipynb (Germany)
 4. SerieA.ipynb (Italy)
 5. Ligue1.ipynb (France)
 
-UCL.ipynb contains similar goalscoring statistics for the top teams in the UEFA Champions League. Meanwhile, webscraping.py contains several methods to automate the data collection process of this project where data was taken from Fox Sports. Finally, the CSV files in this repository contain said data taken from Fox Sports.
+##### Part 2
+UCL.ipynb contains similar historic data about the UEFA Champions League. PlayStyle.ipynb contains a comparison of play styles of the English teams that have seen recent success in the Champions League.
 
 Created by: Harish Chandrasekaran
