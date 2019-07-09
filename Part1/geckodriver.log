@@ -1,0 +1,77 @@
+1562626090084	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.nfmFaJzijGzC"
+1562626092251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562626092251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562626092251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562626095801	Marionette	INFO	Listening on port 51072
+1562626095850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcomponents-lite.v0_7_22.min.js, line 12: Error: DuplicateDefinitionError: a type with name 'wis-scorestrip' is already registered
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562598337501%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+1562626127198	Marionette	INFO	Stopped listening on port 51072
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1562626130512	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.Pmjjbkz1oFqD"
+1562626131462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562626131463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562626131463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562626134311	Marionette	INFO	Listening on port 51325
+1562626134329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1562626158400	Marionette	INFO	Stopped listening on port 51325
+1562626160498	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.rVct4oZoOZKP"
+1562626161610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562626161610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562626161611	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562626164103	Marionette	INFO	Listening on port 51601
+1562626164126	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562598337501%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562626199749	Marionette	INFO	Stopped listening on port 51601
+1562626201477	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.R6dGwjMCozG5"
+1562626202239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562626202239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562626202239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562626205257	Marionette	INFO	Listening on port 51864
+1562626205307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1562626229809	Marionette	INFO	Stopped listening on port 51864
+1562626231653	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.qbt6rKN6Gtx6"
+1562626232744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562626232744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562626232745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562626235129	Marionette	INFO	Listening on port 52086
+1562626235183	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.fssta.com/sta/bigboard/thirdparty/scripts/webcomponents-lite.v0_7_22.min.js, line 12: Error: DuplicateDefinitionError: a type with name 'wis-scorestrip' is already registered
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+JavaScript error: https://www.foxsports.com/foxbox/component/scorestrip/Static/js/scorestrip.js?v=-zkDQkVXI1WXKxulLFLvwIry9COr5rQYGII27_mWPJQ1&vt=20190425000000, line 1: TypeError: e is null
+1562626258281	Marionette	INFO	Stopped listening on port 52086
+1562626260236	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/ft/915rzg4s3zb5xrgq5xtkv8n00000gn/T/rust_mozprofile.dgPV2JaeQSoF"
+1562626261358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1562626261358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1562626261358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1562626263891	Marionette	INFO	Listening on port 52296
+1562626263959	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221562598337501%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1562626365763	Marionette	INFO	Stopped listening on port 52296
