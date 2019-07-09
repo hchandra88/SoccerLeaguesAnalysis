@@ -9,7 +9,7 @@ def get_premTopGoals():
     table = browser.find_element_by_class_name('wisbb_standardTable').get_attribute('outerHTML')
     data = pd.read_html(table)
     data_df = data[0]
-    data_df.to_csv('premTopGoals.csv')
+    data_df.to_csv('TopGoals/premTopGoals.csv')
     browser.close()
     
 def get_laligaTopGoals():
@@ -19,7 +19,7 @@ def get_laligaTopGoals():
     table = browser.find_element_by_class_name('wisbb_standardTable').get_attribute('outerHTML')
     data = pd.read_html(table)
     data_df = data[0]
-    data_df.to_csv('laligaTopGoals.csv')
+    data_df.to_csv('TopGoals/laligaTopGoals.csv')
     browser.close()
     
 def get_bundTopGoals():
@@ -29,7 +29,7 @@ def get_bundTopGoals():
     table = browser.find_element_by_class_name('wisbb_standardTable').get_attribute('outerHTML')
     data = pd.read_html(table)
     data_df = data[0]
-    data_df.to_csv('bundTopGoals.csv')
+    data_df.to_csv('TopGoals/bundTopGoals.csv')
     browser.close()
     
 def get_ligue1TopGoals():
@@ -39,7 +39,7 @@ def get_ligue1TopGoals():
     table = browser.find_element_by_class_name('wisbb_standardTable').get_attribute('outerHTML')
     data = pd.read_html(table)
     data_df = data[0]
-    data_df.to_csv('ligue1TopGoals.csv')
+    data_df.to_csv('TopGoals/ligue1TopGoals.csv')
     browser.close()
     
 def get_serieATopGoals():
@@ -49,19 +49,20 @@ def get_serieATopGoals():
     table = browser.find_element_by_class_name('wisbb_standardTable').get_attribute('outerHTML')
     data = pd.read_html(table)
     data_df = data[0]
-    data_df.to_csv('serieATopGoals.csv')
+    data_df.to_csv('TopGoals/serieATopGoals.csv')
     browser.close()
     
 def get_uclTopGoals():
     browser = webdriver.Firefox()
     browser.get('https://www.uefa.com/uefachampionsleague/season=2019/statistics/round=2000980/clubs/kind=goals/index.html')
     time.sleep(3)
-    table = browser.find_element_by_idp('dbClubStats').get_attribute('outerHTML')
+    table = browser.find_element_by_id('dbClubStats').get_attribute('outerHTML')
     data = pd.read_html(table)
     data_df = data[0]
-    data_df.to_csv('uclTopGoals.csv')
+    data_df.to_csv('TopGoals/uclTopGoals.csv')
     browser.close()
-    
+ 
+'''
 def get_uclAttempts():
     browser = webdriver.Firefox()
     browser.get('https://www.uefa.com/uefachampionsleague/season=2019/statistics/round=2000980/clubs/kind=attempts/index.html')
@@ -71,6 +72,7 @@ def get_uclAttempts():
     data_df = data[0]
     data_df.to_csv('uclAttempts.csv')
     browser.close()
+'''
     
 #data collection
 get_premTopGoals()
@@ -79,4 +81,4 @@ get_laligaTopGoals()
 get_ligue1TopGoals()
 get_serieATopGoals()
 get_uclTopGoals()
-get_uclAttempts()
+#get_uclAttempts()
