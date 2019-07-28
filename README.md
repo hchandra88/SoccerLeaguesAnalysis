@@ -23,7 +23,7 @@ In an ideal world, strategies 1, 2, and 3 prevent our opponent from scoring. How
 
 #### Part 1
 
-In this part I will take a look at the best teams from each of the top 5 leagues in Europe (England, Spain, Germany, Italy, and France) and how they "go for the goals". This comparison will give us an idea of how these teams perform domestically and what makes them so good. At a basic level, we will see how many chances these teams generate, and how good they are at converting them into goals.
+In this part I will take a look at the best teams from each of the top 5 leagues in Europe (England, Spain, Germany, Italy, and France) and how they "go for the goals". This comparison will give us an idea of how these teams perform domestically and what makes them so good. At a basic level, we will see how many chances these teams generate, and how good they are at converting them into goals. For three of the leagues (England, Spain, and Germany) I have done a written analysis of the statistics presented to further explain them. I chose to omit this section from the other two leagues (France and Italy) because they do not have as large a relevance in Part 2. In addition, the purpose of these analyses was simply to translate the graphics into words and draw attention to certain teams and as such I wanted to avoid repetition.
 
 #### Part 2
 
